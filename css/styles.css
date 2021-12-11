@@ -247,7 +247,7 @@
 
   @media (min-width: 1024px) {
     header {
-      background: #fff !important;
+      background: #fff;
     }
     header .wrap {
       max-width: 1260px;
